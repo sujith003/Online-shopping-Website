@@ -15,7 +15,6 @@ Welcome to the **Online Shopping Website**! This is a web application designed t
 - **Routing**: React Router
 - **Styling**: Bootstrap and custom CSS
 - **State Management**: Context API
-- **API**: [Fake Store API](https://fakestoreapi.com)
 
 ## Getting Started
 
