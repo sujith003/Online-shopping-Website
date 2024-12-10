@@ -20,6 +20,13 @@ Welcome to the **Online Shopping Website**! This is a web application designed t
 
 To get a local copy up and running, follow these simple steps:
 
+## Demo
+
+You can try out the live demo of the application here:
+
+[Live Demo](https://onlineshopping-three.vercel.app/)
+
+
 ### Installation
 
 1. Clone the repository:
